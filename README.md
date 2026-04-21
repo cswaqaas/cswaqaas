@@ -1,16 +1,99 @@
-## Hi there 👋
+# Waqas Safdar
 
-<!--
-**cswaqaas/cswaqaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable WordPress systems, SEO automation tools, and SaaS platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m a developer focused on creating performance-driven and scalable solutions across:
+
+- WordPress Plugin Development (Advanced)
+- SEO Automation & Technical SEO Tools
+- SaaS Platforms (FastAPI, APIs, Aggregation Systems)
+- Custom Integrations (GSC, APIs, Data Pipelines)
+
+Currently working on:
+- SEO Repair Kit (WordPress Plugin)
+- SEO Repair Kit (Shopify App)
+
+---
+
+## Tech Stack
+
+**Backend**
+- PHP (WordPress Core)
+- Python (FastAPI)
+- REST APIs
+
+**Frontend**
+- JavaScript / TypeScript
+- React (Vite-based setups)
+- Elementor / Gutenberg Custom Integrations
+
+**Database**
+- MySQL (WordPress)
+- PostgreSQL (SaaS systems)
+
+**DevOps & Tools**
+- Docker / Docker Compose
+- AWS (EC2, RDS, ECS - MVP level)
+- GitHub / SVN (WordPress.org releases)
+
+---
+
+## Key Focus Areas
+
+- Clean and scalable plugin architecture
+- Performance optimization (low DB load, caching strategies)
+- Automation systems (cron jobs, background processes)
+- SEO-driven development (schema, meta, indexing logic)
+- Data aggregation & comparison engines
+
+---
+
+## Projects
+
+### SEO Repair Kit
+A modular WordPress plugin focused on:
+- Link scanning & automation
+- Internal linking engine
+- Meta & schema management
+- Advance Redirection system
+- SEO diagnostics
+
+### Scanner Health
+A SaaS-based product comparison engine:
+- Multi-provider aggregation
+- Smart product matching
+- Price-per-unit calculations
+- API-first architecture
+
+---
+
+## Development Principles
+
+- Follow WordPress coding standards strictly
+- Avoid duplicate queries and heavy DB usage
+- Keep systems modular and extensible
+- Maintain backward compatibility
+- Optimize for real-world performance, not theory
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/waqas-safdar-ai/
+- WordPress Profile: https://profiles.wordpress.org/waqassafdar/
+- GitHub: https://github.com/cswaqaas
+
+---
+
+## Philosophy
+
+Build systems that are:
+- Simple to maintain
+- Scalable by design
+- Focused on real user impact
+
+---
