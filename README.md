@@ -27,7 +27,7 @@ Currently working on:
 - REST APIs
 
 **Frontend**
-- JavaScript / TypeScript
+- JavaScript
 - React (Vite-based setups)
 - Elementor / Gutenberg Custom Integrations
 
@@ -61,13 +61,6 @@ A modular WordPress plugin focused on:
 - Meta & schema management
 - Advance Redirection system
 - SEO diagnostics
-
-### Scanner Health
-A SaaS-based product comparison engine:
-- Multi-provider aggregation
-- Smart product matching
-- Price-per-unit calculations
-- API-first architecture
 
 ---
 
