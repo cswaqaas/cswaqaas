@@ -37,7 +37,7 @@ Currently working on:
 
 **DevOps & Tools**
 - Docker / Docker Compose
-- AWS (EC2, RDS, ECS - MVP level)
+- AWS (EC2, RDS, S3, ECS - MVP level)
 - GitHub / SVN (WordPress.org releases)
 
 ---
@@ -61,6 +61,7 @@ A modular WordPress plugin focused on:
 - Meta & schema management
 - Advance Redirection system
 - SEO diagnostics
+- Sitemap manager
 
 ---
 
