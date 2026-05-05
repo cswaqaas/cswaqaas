@@ -1,6 +1,6 @@
 # Waqas Safdar
 
-Building scalable WordPress systems, SEO automation tools, and SaaS platforms.
+Open-source engineer building WordPress SEO tooling, automation workflows, and backend systems.
 
 ---
 
