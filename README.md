@@ -49,6 +49,11 @@ Currently working on:
 - Automation systems (cron jobs, background processes)
 - SEO-driven development (schema, meta, indexing logic)
 - Data aggregation & comparison engines
+- Technical SEO Automation
+- WordPress Plugin Engineering
+- Schema & Structured Data
+- Internal Linking Systems
+- Spam Detection & Monitoring
 
 ---
 
